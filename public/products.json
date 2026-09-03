@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Camiseta de algodão orgânico",
+        "category": "Roupas e acessórios",
+        "price": 89.9,
+        "description": "Tecido 100% algodão orgânico certificado, tingimento natural e corte unissex.",
+        "image": "images/camisaalgodao.jfif",
+        "swatch": [
+            "#5B7553",
+            "#8FA57B"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bolsa de juta trançada",
+        "category": "Roupas e acessórios",
+        "price": 129.0,
+        "description": "Fibra de juta cultivada sem agrotóxicos, alças de couro vegetal e forro reciclado.",
+        "image": "images/bolsadejuta.jfif",
+        "swatch": [
+            "#C1693C",
+            "#D9A46B"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Óculos de sol de bambu",
+        "category": "Roupas e acessórios",
+        "price": 159.9,
+        "description": "Armação em bambu laminado e lentes polarizadas com proteção UV400.",
+        "image": "images/oculosbambu.jfif",
+        "swatch": [
+            "#3F4A3A",
+            "#748C6C"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Sabonete sólido de aveia",
+        "category": "Beleza natural",
+        "price": 24.9,
+        "description": "Aveia, mel orgânico e óleo de coco. Sem embalagem plástica, sem testes em animais.",
+        "image": "images/saboneteaveia.jfif",
+        "swatch": [
+            "#D9C08C",
+            "#EAD9A8"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Sérum facial de rosa mosqueta",
+        "category": "Beleza natural",
+        "price": 68.0,
+        "description": "Óleo prensado a frio, rico em vitamina C, em frasco de vidro retornável.",
+        "image": "images/serumrosa.jfif",
+        "swatch": [
+            "#8B5E45",
+            "#C99A78"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Escova de dentes de bambu",
+        "category": "Beleza natural",
+        "price": 14.9,
+        "description": "Cabo biodegradável e cerdas macias, kit com 4 unidades.",
+        "image": "images/escovabambu.jfif",
+        "swatch": [
+            "#6B8F71",
+            "#A9C9A5"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Kit potes de vidro herméticos",
+        "category": "Casa sustentável",
+        "price": 149.9,
+        "description": "Conjunto com 5 potes para substituir embalagens plásticas na despensa.",
+        "image": "images/potevidro.jfif",
+        "swatch": [
+            "#4C5B52",
+            "#87998C"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Absorvente de louça de coco",
+        "category": "Casa sustentável",
+        "price": 19.9,
+        "description": "Fibra de casca de coco e látex natural, compostável ao final da vida útil.",
+        "image": "images/absorvente.jfif",
+        "swatch": [
+            "#7A5A3A",
+            "#B8916A"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Composteira doméstica compacta",
+        "category": "Casa sustentável",
+        "price": 219.0,
+        "description": "Transforma resíduos orgânicos em adubo em até 3 semanas, sem cheiro.",
+        "image": "images/composteira.jfif",
+        "swatch": [
+            "#3E4A34",
+            "#6D8158"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Painel solar portátil 20W",
+        "category": "Tecnologia verde",
+        "price": 349.0,
+        "description": "Carrega celular e power bank via USB, dobrável e resistente à água.",
+        "image": "images/painelsolar.jfif",
+        "swatch": [
+            "#2F6F5E",
+            "#5FA490"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Carregador solar de manivela",
+        "category": "Tecnologia verde",
+        "price": 179.9,
+        "description": "Ideal para emergências e trilhas, com lanterna LED integrada.",
+        "image": "images/carregadorsolar.jfif",
+        "swatch": [
+            "#355E3B",
+            "#6E9B6E"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Sensor de consumo de energia",
+        "category": "Tecnologia verde",
+        "price": 259.0,
+        "description": "Monitora o consumo elétrico em tempo real pelo aplicativo, reduz desperdício.",
+        "image": "images/painelsensor.jfif",
+        "swatch": [
+            "#26463F",
+            "#4E7C71"
+        ]
+    }
+]
