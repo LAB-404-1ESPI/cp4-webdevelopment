@@ -105,9 +105,9 @@ Depois, acesse o endereço exibido no terminal (geralmente `http://localhost:517
 
 ## Deploy
 
-O projeto está publicado via **GitHub Pages**, acessível em:
-`https://[usuario].github.io/[repositorio]/`
+O projeto está publicado via **Vercel**, acessível em:
+`https://cp4-webdevelopment.vercel.app/`
 
 ## Créditos
 
-Projeto desenvolvido para a disciplina de Engenharia de Software — Web Development with JS, ministrada pelo Prof. Lucas Sousa, FIAP (fevereiro de 2026).
+Projeto desenvolvido para a disciplina de Engenharia de Software — Web Development, ministrada pelo Prof. Lucas Sousa, FIAP (fevereiro de 2026).
